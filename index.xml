@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>propuesta</title>
+      <title>Propuesta</title>
       <link>/work12/</link>
       <pubDate>Mon, 04 May 2020 19:53:42 +0530</pubDate>
       
@@ -84,11 +84,11 @@
     </item>
     
     <item>
-      <title>plano de luz foco directo</title>
-      <link>/work4/</link>
-      <pubDate>Thu, 19 Mar 2020 19:50:47 +0530</pubDate>
+      <title>Tutorial Hugo</title>
+      <link>/work1/</link>
+      <pubDate>Thu, 19 Mar 2020 18:25:22 +0530</pubDate>
       
-      <guid>/work4/</guid>
+      <guid>/work1/</guid>
       <description></description>
     </item>
     
@@ -111,11 +111,11 @@
     </item>
     
     <item>
-      <title>Tutorial Hugo</title>
-      <link>/work1/</link>
-      <pubDate>Thu, 19 Mar 2020 18:25:22 +0530</pubDate>
+      <title>plano de luz foco directo</title>
+      <link>/work4/</link>
+      <pubDate>Thu, 19 Mar 2020 19:50:47 +0530</pubDate>
       
-      <guid>/work1/</guid>
+      <guid>/work4/</guid>
       <description></description>
     </item>
     
