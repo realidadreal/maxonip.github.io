@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Theme Dream</title>
+    <link>/</link>
+    <description>Recent content on Hugo Theme Dream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 07 Apr 2020 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>plano de luz foco directo</title>
+      <link>/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/work4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plano de luz multifoco</title>
+      <link>/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/work3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plano de luz con dos focos</title>
+      <link>/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/work2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 - Fusion 360</title>
+      <link>/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/work11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 - Fusion 360</title>
+      <link>/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/work8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propuesta de diseño</title>
+      <link>/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/work10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tema de Investigación</title>
+      <link>/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/work9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Referentes movilidad</title>
+      <link>/work6/</link>
+      <pubDate>Sun, 05 Apr 2020 19:53:42 +0530</pubDate>
+      
+      <guid>/work6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cuerpo de luz</title>
+      <link>/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/work5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial software creativo</title>
+      <link>/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/work7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial Hugo</title>
+      <link>/work1/</link>
+      <pubDate>Tue, 07 Apr 2020 18:25:22 +0530</pubDate>
+      
+      <guid>/work1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
