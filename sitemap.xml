@@ -3,26 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/work3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/work8/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/work11/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
@@ -38,6 +18,16 @@
   </url>
   
   <url>
+    <loc>/work8/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work7/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/work6/</loc>
     <lastmod>2020-04-05T19:53:42+05:30</lastmod>
   </url>
@@ -48,17 +38,27 @@
   </url>
   
   <url>
-    <loc>/work7/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <loc>/work4/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-04-07T18:25:22+05:30</lastmod>
+    <loc>/work3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/work2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
     <loc>/work1/</loc>
+    <lastmod>2020-04-07T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2020-04-07T18:25:22+05:30</lastmod>
   </url>
   
